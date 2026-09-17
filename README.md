@@ -22,5 +22,5 @@ Pipeline asincrona ad altissima velocità progettata per l'estrazione massiva di
 ## Istruzioni di Avvio
 1. Clonare il repository:
    ```bash
-   git clone [https://github.com/TUO-USERNAME/b2b-highspeed-lead-generator.git](https://github.com/TUO-USERNAME/b2b-highspeed-lead-generator.git)
+   git clone [https://github.com/TUO-USERNAME/b2b-highspeed-lead-generator.git](https://github.com/redaaaaaaaaaaaaa/b2b-highspeed-lead-generator.git)
    cd b2b-highspeed-lead-generator
